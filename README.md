@@ -8,7 +8,7 @@ Atualmente, estou focado em **DevOps e NOC**, buscando unir **monitoramento, aut
 - 📊 Interesse em **monitoramento, observabilidade e resposta a incidentes**
 - ⚙️ Automação utilizando **Python**
 - 🐧 Experiência prática com **Linux**
-- 📚 Estudando **Python, C e Java**
+- 📚 Estudando **Python,Docker**
 
 ### 🛠️ Tecnologias
 <div style="display: inline_block"><br>
